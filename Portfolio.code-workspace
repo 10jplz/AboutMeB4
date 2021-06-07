@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../UnsolvedBC/uofu-san-fsf-pt-11-2020-u-c/08-Project-1-Contd/02-Homework"
+		},
+		{
+			"path": "../../UnsolvedBC/uofu-san-fsf-pt-11-2020-u-c/15-Project-2"
+		},
+		{
+			"path": "../../UnsolvedBC/uofu-san-fsf-pt-11-2020-u-c/16-Project-2-Contd"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio"
+	}
+}
